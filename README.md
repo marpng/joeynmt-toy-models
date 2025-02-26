@@ -1,7 +1,7 @@
 # joeynmt-toy-models
 
 This repo is just a collection of scripts showing how to install [JoeyNMT](https://github.com/joeynmt/joeynmt), train and evaluate models.
-It is a fork of [this](https://github.com/bricksdont/joeynmt-toy-models) original repo.
+git clone https://github.com/moritz-steiner/joeynmt-toy-modelsIt is a fork of [this](https://github.com/bricksdont/joeynmt-toy-models) original repo.
 
 # Requirements
 
@@ -15,7 +15,7 @@ It is a fork of [this](https://github.com/bricksdont/joeynmt-toy-models) origina
 
 Clone this repository in the desired place:
 
-    git clone https://github.com/moritz-steiner/joeynmt-toy-models
+    git clone https://github.com/marpng/joeynmt-toy-mode
     cd joeynmt-toy-models
 
 Create a new virtualenv that uses Python 3. Please make sure to run this command outside of any virtual Python environment:
